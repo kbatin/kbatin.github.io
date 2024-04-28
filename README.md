@@ -1,6 +1,6 @@
 # Projects
 
-#### Inside Out Game
+### Inside Out Game
 
 This repository contains a Python text-based game inspired by the movie "Inside Out." The game is interactive and explores the themes and characters from the movie in a unique way.
 
