@@ -7,6 +7,6 @@ This repository contains a Python text-based game inspired by the movie "Inside 
 #### How to Play
 To play the game, open the Jupyter notebook [Open Inside Out Game Notebook](./insideoutgame.ipynb). Follow the instructions in the notebook to play through the game.
 
-I invite you to try the game and share your feedback. Have fun!
+I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ •́  )ᕗ
 
 
