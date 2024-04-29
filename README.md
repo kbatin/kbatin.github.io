@@ -10,3 +10,4 @@ To play the game, open the Jupyter notebook [Inside Out Game Notebook](./insideo
 I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ •́  )ᕗ
 
 
+
