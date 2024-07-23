@@ -2,7 +2,8 @@
 
 
 ### [Inside Out Game](https://kbatin.github.io/Inside-Out-Game/)
-December, 2023
+(December, 2023)
+
 Here is a Python text-based game inspired by the movie Inside Out (2015). The game is interactive and explores the themes and characters from the movie in a unique way.
 
 I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ •́  )ᕗ
