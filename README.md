@@ -10,9 +10,9 @@ I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ 
 
 
 
-### Birth Weight Analysis
+### [Birth Weight Analysis](https://kbatin.github.io/Modeling-Case-Study/)
 
-This focuses on analyzing and predicting birthweight, a vital health measurement for newborns. [Birth Weight Analysis](https://github.com/kbatin/kbworks.github.io/blob/main/Birthweight%20analysis.ipynb) is crucial because it can signal potential complications in a baby's health, making it an essential topic for public health research. The primary goal is to identify and analyze factors that contribute to birthweight variations. The findings may help determine which factors are preventative or hereditary, allowing healthcare professionals to intervene and potentially save lives.
+This focuses on analyzing and predicting birthweight, a vital health measurement for newborns. The primary goal is to identify and analyze factors that contribute to birthweight variations. The findings may help determine which factors are preventative or hereditary, allowing healthcare professionals to intervene and potentially save lives.
 
 
 
