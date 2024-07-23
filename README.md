@@ -9,7 +9,6 @@ Here is a Python text-based game inspired by the movie Inside Out (2015). The ga
 I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ •́  )ᕗ
 
 
-
 ### [Birth Weight Analysis](https://kbatin.github.io/Classification-Modeling-Case-Study/)
 (April, 2024)
 
