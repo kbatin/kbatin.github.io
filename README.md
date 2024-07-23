@@ -6,9 +6,7 @@ Here is a Python text-based game inspired by the movie Inside Out (2015). The ga
 
 I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ •́  )ᕗ
 
-### Model Development in Python (March, 2024)
-In the highly competitive airline industry, companies like Air France are continually seeking innovative strategies to increase market share and profitability. This case study examines Air France's efforts to optimize its [Search Engine Marketing (SEM)](https://github.com/kbatin/kbworks.github.io/blob/main/Team%202%20-%20A2%20Model%20Development%20in%20Python%20(1).ipynb) campaigns across various platforms, with the goal of maximizing the return on investment (ROI) and effectively targeting a diverse consumer base.
-
+### [Model Development in Python (March, 2024)](https://kbatin.github.io/Air-France-SEM-campaigns/)
 The study explores different approaches to advertising and highlights ways to refine marketing strategies for improved performance. It offers insights into the most effective SEM practices, aiming to guide Air France's marketing team in making data-driven decisions.
 
 
