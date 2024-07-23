@@ -1,9 +1,8 @@
 # Projects
 
 
-### [Inside Out Game] (https://kbatin.github.io/Inside-Out-Game/)
-
-Here is a Python text-based game inspired by the movie "Inside Out." The game is interactive and explores the themes and characters from the movie in a unique way.
+### Inside Out Game
+Here is a [Python text-based game] (https://kbatin.github.io/Inside-Out-Game/) inspired by the movie "Inside Out." The game is interactive and explores the themes and characters from the movie in a unique way.
 
 I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ •́  )ᕗ
 
