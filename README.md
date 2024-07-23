@@ -13,7 +13,7 @@ I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ 
 ### [Birth Weight Analysis](https://kbatin.github.io/Classification-Modeling-Case-Study/)
 (April, 2024)
 
-This focuses on analyzing and predicting birthweight, a vital health measurement for newborns. The primary goal is to identify and analyze factors that contribute to birthweight variations. The findings may help determine which factors are preventative or hereditary, allowing healthcare professionals to intervene and potentially save lives.
+This focuses on analyzing and predicting birthweight, a vital health measurement for newborns. The primary goal is to identify and analyze factors that contribute to birthweight variations. 
 
 
 
