@@ -7,7 +7,7 @@ Here is a Python text-based game inspired by the movie Inside Out (2015). The ga
 I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ •́  )ᕗ
 
 
-### [Cost-Effectiveness of Sustainable Wedding Vendors (December 2023)](https://kbatin.github.io/Sustainability-in-Weddings/)
+### [Cost-Effective Analysis (December 2023)](https://kbatin.github.io/Sustainability-in-Weddings/)
 An SQL and Python-based analysis exploring whether wedding vendors with sustainable practices offer cost savings. Includes data exploration, statistical analysis, and actionable insights.
 
 
