@@ -11,7 +11,7 @@ I invite you to try the game and share your feedback. Have fun! ᕙ(  •̀ ᗜ 
 An SQL and Python-based analysis exploring whether wedding vendors with sustainable practices offer cost savings. Includes data exploration, statistical analysis, and actionable insights.
 
 
-### [Preparing Client Proposals for Wedding Planning (December 2023)](https://kbatin.github.io/SQL-based-Wedding-Planning/)
+### [Client Proposals for Wedding Planning (December 2023)](https://kbatin.github.io/SQL-based-Wedding-Planning/)
 A project focused on creating vendor and wedding option tables using SQL, categorizing by wedding size and budget level to deliver customized wedding plans for clients.
 
 
@@ -23,5 +23,6 @@ The study explores different approaches to advertising and highlights ways to re
 This focuses on analyzing and predicting birthweight, a vital health measurement for newborns. The primary goal is to identify and analyze factors that contribute to birthweight variations. 
 
 
+### Challenge Analysis and Code (April 2024)
 
 
