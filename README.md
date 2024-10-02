@@ -23,7 +23,7 @@ The study explores different approaches to advertising and highlights ways to re
 This focuses on analyzing and predicting birthweight, a vital health measurement for newborns. The primary goal is to identify and analyze factors that contribute to birthweight variations. 
 
 
-### Challenge Analysis and Code (April 2024)
+### [Challenge Analysis and Code (April 2024)](https://kbatin.github.io/Challenge-Analysis-and-Code/)
 A project leveraging Sentinel-2 satellite data and object detection to assess vegetation health and disaster impact pre- and post-Hurricane Maria in San Juan, Puerto Rico. Includes NDVI analysis, YOLO modeling, and actionable insights for disaster resilience and recovery in Puerto Rico.
 
 
