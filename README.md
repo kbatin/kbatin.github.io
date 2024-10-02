@@ -24,5 +24,6 @@ This focuses on analyzing and predicting birthweight, a vital health measurement
 
 
 ### Challenge Analysis and Code (April 2024)
+A project leveraging Sentinel-2 satellite data and object detection to assess vegetation health and disaster impact pre- and post-Hurricane Maria. Includes NDVI analysis, YOLO modeling, and actionable insights for disaster resilience and recovery in Puerto Rico.
 
 
