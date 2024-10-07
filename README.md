@@ -13,6 +13,10 @@ This focuses on analyzing and predicting birthweight, a vital health measurement
 The study explores different approaches to advertising and highlights ways to refine marketing strategies for improved performance. It offers insights into the most effective SEM practices, aiming to guide Air France's marketing team in making data-driven decisions.
 
 
+### [Feature Engineering with the Ames Housing Data (February 2024)](https://kbatin.github.io/Feature-Engineering/)
+This project focuses on creating innovative features to improve house price predictions. By engineering custom features, the goal is to uncover deeper insights and enhance model performance.
+
+
 ### [Client Proposals for Wedding Planning (December 2023)](https://kbatin.github.io/SQL-based-Wedding-Planning/)
 A project focused on creating vendor and wedding option tables using SQL, categorizing by wedding size and budget level to deliver customized wedding plans for clients.
 
