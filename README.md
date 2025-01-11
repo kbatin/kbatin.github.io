@@ -9,7 +9,7 @@ A project leveraging Sentinel-2 satellite data and object detection to assess ve
 This focuses on analyzing and predicting birthweight, a vital health measurement for newborns. The primary goal is to identify and analyze factors that contribute to birthweight variations. 
 
 
-### [Unsupervised Analysis of Facebook Engagement for Thailand Live Sellers(April 2024)](https://kbatin.github.io/Unsupervised-Analysis/)
+### [Unsupervised Analysis of Facebook Engagement for Thailand Live Sellers (April 2024)](https://kbatin.github.io/Unsupervised-Analysis/)
 This project analyzes social media engagement for Facebook Live sellers in Thailand using unsupervised learning techniques. By applying Principal Component Analysis (PCA) and K-means clustering, the analysis uncovers key engagement patterns and assesses the effectiveness of photo content. The results provide actionable insights for optimizing social media strategies.
 
 
